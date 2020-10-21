@@ -13,6 +13,9 @@
 ### PyCharm ###
 .idea/
 
+### emacs ###
+*~
+
 ### Python ###
 *.pyc
 *.pyo
