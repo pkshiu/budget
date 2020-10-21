@@ -1,0 +1,38 @@
+### SublimeText ###
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+### VS Code ###
+*.code-workspace
+.vscode/
+
+### PyCharm ###
+.idea/
+
+### Python ###
+*.pyc
+*.pyo
+*.egg-info/
+.cache/
+.coverage
+.tox
+.cache
+.env
+
+### Misc ###
+*.log
+*.sqlite3
+
+### Hugo ###
+/docs/public/
+/docs/resources/_gen/
+
+/media/
+
+.mypy_cache/
+k/
+tags
